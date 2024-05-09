@@ -8,7 +8,7 @@ Join us on May 9th for the second edition of Tech Unpacked, a series of events h
 
 ​We'll wrap up the event with some casual networking, beers, and pizza on us!
 
-​​## AGENDA
+## AGENDA
 
 1. ​​6:00pm | Fintech Goes Web3 💸
 2. ​​6:30pm | Hackathon: Blockchain for real-world financial applications 🔗
