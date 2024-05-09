@@ -34,18 +34,22 @@ The token is **Gohub Hack (GHH)**, it's in Ethereum Sepolia network, you can fin
 
 ### Send some Tokens to Depasify Wallet:
 Send some of the tokens you receive to the providede Depasify wallet using native TRX technology. We recommend using Python or JavaScript.
+
 The depasify wallet is: **0x64bc5be8db527c53fdbfbb2a7f928f5dbeff4721**
 
 ### Send the Transaction to Depasify Platform:
 After completing the transaction to the Depasify wallet, send it to our platform using the API Link Blockchain Payment Depa.
+
 You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment](https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment)
 
 ### Exchange Tokens for Fiat (Depa Trade API):
 Explore exchanging your tokens for fiat currency using the Depa Trade API.
+
 You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-trades](https://depasify.readme.io/reference/post_accounts-account-id-trades)
 
 ### Pay for Beer (Fiat Payment to Gohub Account):
 Finally, try the fiat payment process to buy a beer. Use fiat payment to the Gohub account and experience blockchain transactions in everyday scenarios.
+
 You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-blockchain-wallets-blockchain-wallet-id-blockchain-payments](https://depasify.readme.io/reference/post_accounts-account-id-blockchain-wallets-blockchain-wallet-id-blockchain-payments)
 
 -----
