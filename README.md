@@ -47,6 +47,8 @@ Explore exchanging your tokens for fiat currency using the Depa Trade API.
 
 You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-trades](https://depasify.readme.io/reference/post_accounts-account-id-trades)
 
+The currency pair is **GHHEUR**.
+
 ### Pay for Beer (Fiat Payment to Gohub Account):
 Finally, try the fiat payment process to buy a beer. Use fiat payment to the Gohub account and experience blockchain transactions in everyday scenarios.
 
