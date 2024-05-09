@@ -25,8 +25,11 @@ Ensure you have a prepared and ready-to-use wallet before starting.
 
 ### Register at Depasify platform (stage):
 Sign up on our dedicated hackathon portal to receive tokens for the event.
+
 [https://sandbox.depasify.com/hackathon/sign-in](https://sandbox.depasify.com/hackathon/sign-in)
+
 After registering, you will be redirected to a page where you will see some details that you will need to do the hackathon.
+
 The token is **Gohub Hack (GHH)**, it's in Ethereum Sepolia network, you can find all the information [here](https://sepolia.etherscan.io/token/0x8efa809bc27a9d25772b1c1ab69b87462d0312d8#code).
 
 ### Send some Tokens to Depasify Wallet:
