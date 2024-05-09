@@ -40,7 +40,7 @@ The depasify wallet is: **0x64bc5be8db527c53fdbfbb2a7f928f5dbeff4721**
 ### Send the Transaction to Depasify Platform:
 After completing the transaction to the Depasify wallet, send it to our platform using the API Link Blockchain Payment Depa.
 
-You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment](https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment)
+You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment](https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment). **Please, include a "currency" field in the payload with the value "GHH".**
 
 ### Exchange Tokens for Fiat (Depa Trade API):
 Explore exchanging your tokens for fiat currency using the Depa Trade API.
