@@ -54,6 +54,8 @@ Finally, try the fiat payment process to buy a beer. Use fiat payment to the Goh
 
 You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-blockchain-wallets-blockchain-wallet-id-blockchain-payments](https://depasify.readme.io/reference/post_accounts-account-id-blockchain-wallets-blockchain-wallet-id-blockchain-payments)
 
+Gohub IBAN is: **ES7767130002000000000302**, please include your name in the description.
+
 -----
 
 We're excited to have you on board and hope this hackathon will be a rewarding and enjoyable experience for all!
