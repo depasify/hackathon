@@ -30,31 +30,33 @@ Sign up on our dedicated hackathon portal to receive tokens for the event.
 
 After registering, you will be redirected to a page where you will see some details that you will need to do the hackathon.
 
-The token is **Gohub Hack (GHH)**, it's in Ethereum Sepolia network, you can find all the information [here](https://sepolia.etherscan.io/token/0x8efa809bc27a9d25772b1c1ab69b87462d0312d8#code).
+The token is **Gohub Hack (GHH)**, it's in Ethereum Sepolia network, you can find all the information about the token and the contract in [sepolia.etherscan.io](https://sepolia.etherscan.io/token/0x8efa809bc27a9d25772b1c1ab69b87462d0312d8#code). Probably for next steps, you will need the contract address and the abi code.
 
 ### Send some Tokens to Depasify Wallet:
-Send some of the tokens you receive to the providede Depasify wallet using native TRX technology. We recommend using Python or JavaScript.
+Using your desired coding language, send some of the tokens you received to the next Depasify wallet using native transfer technology. We recommend using Python or JavaScript, and web3 packages, but there are more available.
 
-The depasify wallet is: **0x64bc5be8db527c53fdbfbb2a7f928f5dbeff4721**
+The depasify wallet is: **0x64bc5be8db527c53fdbfbb2a7f928f5dbeff4721**.
 
 ### Send the Transaction to Depasify Platform:
-After completing the transaction to the Depasify wallet, send it to our platform using the API Link Blockchain Payment Depa.
+After completing the transaction to the Depasify wallet, send it to our platform using the API Link Blockchain Payment Depa. This way you can operate your digital assets with our platform.
 
-You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment](https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment). **Please, include a "currency" field in the payload with the value "GHH".**
+You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment](https://depasify.readme.io/reference/post_accounts-account-id-link-blockchain-payment).
+
+**Important**: Please, include a "currency" field in the payload with the value "GHH".
 
 ### Exchange Tokens for Fiat (Depa Trade API):
 Explore exchanging your tokens for fiat currency using the Depa Trade API.
 
 You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-trades](https://depasify.readme.io/reference/post_accounts-account-id-trades)
 
-The currency pair is **GHHEUR**.
+The currency pair you must trade is **GHHEUR**.
 
 ### Pay for Beer (Fiat Payment to Gohub Account):
 Finally, try the fiat payment process to buy a beer. Use fiat payment to the Gohub account and experience blockchain transactions in everyday scenarios.
 
-You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-blockchain-wallets-blockchain-wallet-id-blockchain-payments](https://depasify.readme.io/reference/post_accounts-account-id-blockchain-wallets-blockchain-wallet-id-blockchain-payments)
+You can find the documentation here: [https://depasify.readme.io/reference/post_accounts-account-id-bank-accounts-bank-account-id-fiat-payments](https://depasify.readme.io/reference/post_accounts-account-id-bank-accounts-bank-account-id-fiat-payments)
 
-Gohub IBAN is: **ES7767130002000000000302**, please include your name in the description.
+The Gohub IBAN is: **ES7767130002000000000302**, please include your name as the description.
 
 -----
 
